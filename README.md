@@ -14,10 +14,9 @@ I'm Joshua Joseph, a Software Engineer, Technical Lead at [Techsity](https://tec
 
 - [LinkedIn](https://www.linkedin.com/in/joshua-joseph28/)
 ## 📈 My GitHub Stats
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Josh-Savvy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![My Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Savvy&layout=compact)
+- ![trophy](https://github-profile-trophy.vercel.app/?username=Josh-Savvy&theme=radical)
+- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Savvy&layout=compact&hide_progress=true)
+- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=code_priest)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ## 🚀 My Skills
