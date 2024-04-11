@@ -2,9 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Josh-Savvy)
 
-I'm Joshua Joseph, a Software Engineer. Welcome to my GitHub profile! 
+I'm Joshua Joseph, a Software Engineer, Technical Lead at [Techsity](https://techsity.io) and a freelancer on [Upwork](https://www.upwork.com/).
 
-I'm the Technical Lead at [Techsity](https://techsity.io) and a freelancer on [Upwork](https://www.upwork.com/).
+### Welcome to my GitHub profile! 
+
 
 <!-- ## 🔭 Recent Projects
 -->
